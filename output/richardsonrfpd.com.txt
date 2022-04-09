@@ -1,0 +1,15 @@
+lyncdiscover.richardsonrfpd.com
+lyncdiscoverinternal.richardsonrfpd.com
+lync.richardsonrfpd.com
+lyncdiscover.richardsonrfpd.com
+macom.richardsonrfpd.com
+sip.richardsonrfpd.com
+smtp.richardsonrfpd.com
+ww2.richardsonrfpd.com
+ww3.richardsonrfpd.com
+gan-sic-power.richardsonrfpd.com
+engage.richardsonrfpd.com
+autodiscover.richardsonrfpd.com
+apps.richardsonrfpd.com
+www.richardsonrfpd.com
+elqtracking.richardsonrfpd.com

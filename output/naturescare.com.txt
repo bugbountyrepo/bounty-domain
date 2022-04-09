@@ -1,0 +1,7 @@
+acsftest.naturescare.com
+fr-ca.naturescare.com
+acsfprod.naturescare.com
+acsfdev.naturescare.com
+www.naturescare.com
+en-ca.naturescare.com
+smartling.naturescare.com

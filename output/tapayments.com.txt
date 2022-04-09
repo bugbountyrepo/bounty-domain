@@ -1,0 +1,16 @@
+walletproxy.tapayments.com
+partnerapi2.tapayments.com
+partnerapi1.tapayments.com
+internalapi1.tapayments.com
+api-hare.tapayments.com
+internalapi-lapin.tapayments.com
+internalapi2.tapayments.com
+api-lapin.tapayments.com
+internalapi.tapayments.com
+api2.tapayments.com
+internalapi-hare.tapayments.com
+partnerapi.tapayments.com
+api1.tapayments.com
+walletproxy1.tapayments.com
+walletproxy2.tapayments.com
+api.tapayments.com

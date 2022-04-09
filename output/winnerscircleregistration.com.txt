@@ -1,0 +1,4 @@
+hostmaster.winnerscircleregistration.com
+gwc17.winnerscircleregistration.com
+www.winnerscircleregistration.com
+testing.winnerscircleregistration.com

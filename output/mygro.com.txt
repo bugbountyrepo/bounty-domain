@@ -1,0 +1,13 @@
+dev.mygro.com
+home.mygro.com
+stage.mygro.com
+staging.mygro.com
+develop.mygro.com
+hotfix.mygro.com
+images.mygro.com
+test.mygro.com
+rc.mygro.com
+cruithne.mygro.com
+www.mygro.com
+headless.mygro.com
+status.mygro.com

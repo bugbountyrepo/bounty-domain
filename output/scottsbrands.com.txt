@@ -1,0 +1,6 @@
+acsftest.scottsbrands.com
+acsfprod.scottsbrands.com
+www.scottsbrands.com
+acsfdev.scottsbrands.com
+fr-ca.scottsbrands.com
+en-ca.scottsbrands.com

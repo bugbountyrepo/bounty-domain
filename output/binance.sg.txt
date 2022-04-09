@@ -1,0 +1,7 @@
+api.binance.sg
+support.binance.sg
+www.binance.sg
+eaas.binance.sg
+resource.binance.sg
+pm-bounces.post.binance.sg
+test.binance.sg
